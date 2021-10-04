@@ -47,6 +47,7 @@ class SDKViewController: UIViewController, AMAdDelegate{
         self.view.endEditing(true)
         stopAll()
         loadBanner()
+        //Some changes
     }
     // MARK: Interstitial
     @IBAction func LoadInter(_ sender: Any) {
