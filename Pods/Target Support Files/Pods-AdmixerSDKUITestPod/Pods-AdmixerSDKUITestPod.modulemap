@@ -1,0 +1,6 @@
+module Pods_AdmixerSDKUITestPod {
+  umbrella header "Pods-AdmixerSDKUITestPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
