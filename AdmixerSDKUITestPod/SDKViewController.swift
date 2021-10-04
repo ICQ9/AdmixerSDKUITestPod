@@ -18,6 +18,8 @@ enum InstreamMode{
     case in_layer
 }
 
+//SIMPLE DIMPLE
+
 
 class SDKViewController: UIViewController, AMAdDelegate{
     @IBOutlet weak var VideoTypes: UISegmentedControl!
